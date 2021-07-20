@@ -1,0 +1,65 @@
+{
+  "name": "notessensei-extension-pack",
+  "displayName": "NotesSensei's Extension Collection",
+  "description": "Productivity collection for Cross-Language developers",
+  "version": "1.0.0",
+  "publisher": "notessensei",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stwissel/notessensei-extension-pack.git"
+  },
+  "homepage": "https://github.com/Stwissel/notessensei-extension-pack/blob/main/README.md",
+  "icon": "taologo128.png",
+  "license": "Apache-2.0",
+  "engines": {
+    "vscode": "^1.58.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "Java",
+    "JavaScript",
+    "PlantUML",
+    "Git",
+    "GitHub"
+  ],
+  "extensionPack": [
+    "ahmadalli.vscode-nginx-conf",
+    "davidanson.vscode-markdownlint",
+    "dawhite.mustache",
+    "dbaeumer.vscode-eslint",
+    "dotjoshjohnson.xml",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.docker-extension-pack",
+    "gitHub.vscode-pull-request-github",
+    "hbenl.vscode-test-explorer",
+    "ivory-lab.jenkinsfile-support",
+    "jebbs.plantuml",
+    "johnpapa.vscode-peacock",
+    "karigari.chat",
+    "lostintangent.vsls-whiteboard",
+    "mikestead.dotenv",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "ms-vscode-remote.remote-containers",
+    "ms-vsliveshare.vsliveshare-pack",
+    "rangav.vscode-thunder-client",
+    "raynigon.nginx-formatter",
+    "redhat.fabric8-analytics",
+    "redhat.java",
+    "redhat.vscode-commons",
+    "redhat.vscode-microprofile",
+    "redhat.vscode-quarkus",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
+    "shengchen.vscode-checkstyle",
+    "teamsdevapp.ms-teams-vscode-extension",
+    "visualstudioexptteam.vscodeintellicode",
+    "vscjava.vscode-java-pack",
+    "vscode-icons-team.vscode-icons",
+    "william-voyek.vscode-nginx",
+    "wix.vscode-import-cost",
+    "yog.yog-plantuml-highlight"
+  ]
+}

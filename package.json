@@ -2,7 +2,7 @@
   "name": "notessensei-extension-pack",
   "displayName": "NotesSensei's Extension Collection",
   "description": "Productivity collection for Cross-Language developers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "notessensei",
   "repository": {
     "type": "git",
@@ -58,6 +58,9 @@
     "visualstudioexptteam.vscodeintellicode",
     "vscjava.vscode-java-pack",
     "vscode-icons-team.vscode-icons",
+    "wallabyjs.dingo-vscode",
+    "wallabyjs.quokka-vscode",
+    "wallabyjs.wallaby-vscode",
     "william-voyek.vscode-nginx",
     "wix.vscode-import-cost",
     "yog.yog-plantuml-highlight"
